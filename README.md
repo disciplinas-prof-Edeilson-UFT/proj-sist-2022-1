@@ -4,7 +4,7 @@
 
 | Pessoa | Github Nick |
 |----|----|
-| Pablo Henrique | yarion1  |
+| **Pablo Henrique** | yarion1  |
 | Kharlos Danyell | KharlosDanyell  |
 | Arthur Reis | arthurffreis  |
 | Luana Lorena  | Luanatvrs  |
