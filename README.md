@@ -1,5 +1,5 @@
+# Projeto de sistemas 2022-01
 
-# proj-sist-2022-1-group1
 
 ## Grupo 01
 
@@ -29,6 +29,7 @@
 | Pessoa | Github Nick |
 |----|----|
 | Lindomar Rodrigues | LindomarRodrigues  |
+| Mateus Araujo Dias | Mateus-Arauj |
 | Neudison Nonato Maia Filho  | nnmf  |
 | **Rafael Silva Tavares**  | Rafael-jooj  |
 | Varley Miranda Marcelino  | varley20  |
