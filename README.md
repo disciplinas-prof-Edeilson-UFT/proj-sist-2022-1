@@ -44,3 +44,18 @@
 | Neudison Nonato Maia Filho  | nnmf  |
 | **Rafael Silva Tavares**  | Rafael-jooj  |
 | Varley Miranda Marcelino  | varley20  |
+
+### Repositórios
+
+
+#### [bender-interface-react](https://github.com/LindomarRodrigues/bender-interface-react)
+
+Interface gráfica da aplicação feita em React.
+
+#### [bender-bd-mysql](https://github.com/LindomarRodrigues/bender-bd-mysql)
+
+Diagrama de classe, dump, e DR do banco de dados feito em MySQL.
+
+#### [bender-api-fastapi](https://github.com/LindomarRodrigues/bender-api-fastapi)
+
+API da aplicação feita em Python com typing e com o framework fastAPI.
