@@ -35,27 +35,45 @@
 | **João Marcos Maracaipe Saldanha de Sousa** | maracaipe-code  |
 | Antonio da Silva Arieiro Junior | antonioarieiro  |
 
+
+  
 ## Grupo 04
 
-| Pessoa | Github Nick |
-|----|----|
-| Lindomar Rodrigues | LindomarRodrigues  |
-| Mateus Araujo Dias | Mateus-Arauj |
-| Neudison Nonato Maia Filho  | nnmf  |
-| **Rafael Silva Tavares**  | Rafael-jooj  |
-| Varley Miranda Marcelino  | varley20  |
-
-### Repositórios
+<div align="center">
 
 
-#### [bender-interface-react](https://github.com/LindomarRodrigues/bender-interface-react)
+  | Pessoa | Github Nick |
+  |----|----|
+  | Lindomar Rodrigues | LindomarRodrigues  |
+  | Mateus Araujo Dias | Mateus-Arauj |
+  | Neudison Nonato Maia Filho  | nnmf  |
+  | **Rafael Silva Tavares**  | Rafael-jooj  |
+  | Varley Miranda Marcelino  | varley20  |
+  
+</div>
 
-Interface gráfica da aplicação feita em React.
-
-#### [bender-bd-mysql](https://github.com/LindomarRodrigues/bender-bd-mysql)
-
-Diagrama de classe, dump, e DR do banco de dados feito em MySQL.
-
-#### [bender-api-fastapi](https://github.com/LindomarRodrigues/bender-api-fastapi)
-
-API da aplicação feita em Python com typing e com o framework fastAPI.
+<div align="center">
+ 
+  <table>
+    <tr>
+      <th colspan="2">Repositórios</td>
+    </tr>
+    <tr>
+      <th>Repositório</td>
+      <th>Descrição</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LindomarRodrigues/bender-interface-react">bender-interface-react</a></td>
+      <td>Interface gráfica da aplicação feita em React.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LindomarRodrigues/bender-bd-mysql">bender-bd-mysql</a></td>
+      <td>Diagrama de classe, dump, e DR do banco de dados feito em MySQL.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LindomarRodrigues/bender-api-fastapi">bender-api-fastapi</a></td>
+      <td>API da aplicação feita em Python com typing e com o framework fastAPI.</td>
+    </tr>
+  </table>
+  
+</div>
