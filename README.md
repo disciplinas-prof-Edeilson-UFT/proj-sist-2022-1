@@ -49,6 +49,8 @@
   | Neudison Nonato Maia Filho  | nnmf  |
   | **Rafael Silva Tavares**  | Rafael-jooj  |
   | Varley Miranda Marcelino  | varley20  |
+  | Laurinda Nhanga Mona  | nhangamona  |
+  | Murilo Alves Melo  | murilo-alvesmelo  |
   
 </div>
 
