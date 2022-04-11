@@ -42,13 +42,20 @@
 
 | Pessoa | Github Nick |
 |-----|----|
-| **Gabriel G Carvalho** | gabrielgcarvalho |
+| Gabriel G Carvalho | gabrielgcarvalho |
 | Vinicius de Oliveira Oliveira | vinnieoh |
 | Marcos Antonio Costa filho | marcos1079 |
 | Wanderson Oliveira Bueno | wandbueno |
 | Gustavo Casaes Alves | Zokyn | 
 | Nicolas Arthur Garcia Ribeiro | nicolasarthur10 |
-| Amauri Melo Mendes Jr | amaur1mmj |
+| **Amauri Melo Mendes Jr** | amaur1mmj |
+| Antonio da Silva Arieiro junior | antonioarieiro |
+
+| Repositorio | Link |
+|-----|-----|
+|BACK-END|https://github.com/G02PS2022-01/api
+|FRONT-END|https://github.com/G02PS2022-01/front-end|
+
 
 ## Grupo 03
 
