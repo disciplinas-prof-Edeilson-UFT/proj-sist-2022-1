@@ -74,6 +74,10 @@
       <td><a href="https://github.com/LindomarRodrigues/bender-api-fastapi">bender-api-fastapi</a></td>
       <td>API da aplicação feita em Python com typing e com o framework fastAPI.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/murilo-alvesmelo/bender-interface-web-react">bender-interface-adm-web</a></td>
+      <td>Interface gráfica web do adminstrador.</td>
+    </tr>
   </table>
   
 </div>
