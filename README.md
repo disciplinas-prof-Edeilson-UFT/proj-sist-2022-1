@@ -24,6 +24,31 @@
 | Nicolas Arthur Garcia Ribeiro | nicolasarthur10 |
 | Amauri Melo Mendes Jr | amaur1mmj |
 
+</div>
+
+<div align="center">
+ 
+  <table>
+    <tr>
+      <th colspan="2">Repositórios</td>
+    </tr>
+    <tr>
+      <th>Repositório</td>
+      <th>Descrição</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yarion1/backend-ps">Backend em node</a></td>
+      <td>Backend e Apis em node.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yarion1/Front-Ps">Interface em react</a></td>
+      <td>interface da aplicacao feita em react.</td>
+    </tr>
+  </table>
+  
+</div>
+
+
 ## Grupo 03
 
 | Pessoa | Github Nick |
