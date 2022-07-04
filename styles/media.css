@@ -1,0 +1,76 @@
+@media screen and (max-width: 760px){    
+    header{
+        flex-direction: column;
+    }
+
+    ul{
+        text-align:center
+    }
+
+    main{
+        flex-direction: column;
+        padding: 20px
+    }
+    main img{
+        margin-top: 60px;
+        width: 360px;
+    }
+
+    h2{
+        font-size: 32px;
+    }
+
+    section{
+        height: auto;
+        
+    }
+
+    .center{
+        max-width: 90vw;
+    }
+
+    #products{
+        margin-top: 10px;
+    }
+
+    .produto{
+        flex-direction:column;
+        padding: 20px;
+    }
+
+    #bender{
+        flex-direction: column-reverse;
+    }
+
+    #img1{
+        width: 300px
+    }
+
+    #img2{
+        width: 180px;
+    }
+
+    #img3{
+        width: 230px
+    }
+
+    .equipeGroup{
+        flex-direction: column;
+    }
+
+    .alinhar{
+        margin-bottom:20px;
+        justify-content: left;
+    }
+
+    footer{
+        flex-direction: column;
+        height: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    footer img{
+        max-width:200px;
+        margin-bottom: 10px;
+    }
+}
