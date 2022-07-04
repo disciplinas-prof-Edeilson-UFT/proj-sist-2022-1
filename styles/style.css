@@ -1,0 +1,185 @@
+html {
+    scroll-behavior: smooth;
+  }
+   
+  
+  body{
+      background: linear-gradient(100deg, rgb(34, 34, 34) 10%, rgb(61, 68, 153) 90%);
+      color: white;
+      font-family: poppinsregular;
+      margin: 0;
+  }
+  
+  .center{
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 15x;
+  }
+  
+  header{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+  }
+  
+  #title{
+      flex-direction: column;
+      line-height: 15px;
+  }
+  
+  li{
+      display: inline-block;
+      margin: 30px;
+  }
+  
+  a{
+      color: white;
+      border: none;
+      background: linear-gradient(105deg, rgb(92, 102, 218) 0%, rgb(132, 14, 201) 100%);
+      padding: 10px;
+      margin-left: 20px;
+      border-radius: 15px;
+  }
+  
+  a:hover{
+      background: transparent;
+      border: 1px solid rgb(132, 14, 201);
+      transition: 0.5s all ease;
+  }
+  
+  h1{
+      font-weight: 200;
+  }
+  
+  main{
+      display: flex;
+      flex-direction: row;
+      margin-top: 50px;
+  }
+  
+  main img{
+      width: 620px;
+  }
+  
+  h2{
+      font-size: 56px;
+      line-height: 15px;
+      font-family: poppinsmedium;
+      
+  }
+  .titlepj{
+      color: rgb(132, 14, 201);
+  }
+  span{
+      color: rgb(255, 255, 255);
+  }
+  
+  
+  p{
+      line-height: 20px;
+      max-width: 500px;
+      font-family: poppinslight;
+      margin-bottom: 30px;
+  }
+  
+  p::selection{
+      background: blueviolet;
+      color: white;
+  }
+  
+  .subtitle{
+      display: flex;
+      justify-content: center;
+  }
+  
+  #products{
+      text-align: center;
+      margin-top: 100px;
+      border-bottom: 2px solid rgb(132, 14, 201);
+      width: 150px;
+  }
+  
+  #equipe{
+      text-align: center;
+      border-bottom: 2px solid rgb(132, 14, 201);
+      width: 320px;
+  }
+  
+  .produto{
+      display: flex;
+      flex-direction: row;
+      height: 55vh;
+      align-items: center;
+      margin-top: 50px;
+      margin-bottom: 100px;
+      justify-content: space-around;
+      border: 2px solid #F26E3F;
+      border-radius: 2rem;
+     cursor: pointer;
+
+  }
+  
+  .produto a{
+      text-decoration: inherit;
+  }
+  .produto span{
+    color: blueviolet;
+  }
+  
+  .equipeGroup{
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+  
+  .equipe{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      margin-right: 10px;
+      background-image: url("../components/images/user.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+  
+  .alinhar{
+      width: 400px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center
+  }
+  
+  footer{
+      background-color: #111;
+      height: 200px;
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  
+  #skeleton {
+      animation: fadeInUp 2s;
+    }
+  
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(10%);
+      }
+  
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+  
+  
+   .iconsoft{
+      z-index: 99;
+   }
+  
