@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./styles/style.css" rel="stylesheet" >
+    <link href="./styles/fonts.css" rel="stylesheet" >
+    <link href="./styles/media.css" rel="stylesheet" >
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <title>Projeto de Sistemas</title>
+</head>
+<body>
+    <div class="center">
+    <g id="skeleton">
+        <header>
+                <div id="title" >
+                    <h1>Projeto de</h1>
+                    <h1>Sistemas</h1>
+                </div>
+                <ul>
+                    <a href="#products"><li>Produtos</li></a>
+                    <a href="#equipe"><li>Equipe Pedagógica</li></a>
+                </ul>
+            </header>
+        </g>
+        <main>
+            <aside>
+                <div class="dinamico"  data-aos="fade-down" data-aos-duration="1000">
+                    <h2 class="titlepj">Projeto de Sistemas</h2>
+                    <h2><span>Turma 22.1</span></h2>
+                </div>
+                <p data-aos="fade-down">Aqui você encontra os projetos realizados pelas equipes da turma 22.1 da disciplina de Projeto de Sistemas ministrada pelo Professor Dr. Edeilson Milhomem.</p>
+            </aside>
+            <article class="iconsoft">
+               <lottie-player data-aos-duration="1000" data-aos="fade-up" src="https://assets7.lottiefiles.com/packages/lf20_w51pcehl.json"   speed="1"  style="max-width: 600px; height: 500px; " loop autoplay></lottie-player>
+            </article>
+        </main>
+        <div class="subtitle">
+            <h1 id="products">Produtos</h1>
+        </div>
+        <section class="produto" data-aos-duration="2000" data-aos="flip-left" data-aos-easing="ease-out-cubic">
+            <article>
+                <img src="./components/images/trator.png" alt="fundo" style="max-width: 600px" id="img1">
+            </article>
+            <aside>
+                <h2><span>Use.It</span></h2>
+                <p>Use.It é um site para alugar equipamentos para o seu negócio, seja escavadeiras, britadeiras ou ferramentas que são 
+                    necessárias para o trabalho, assim facilitando ao anunciante e cliente de forma rápida e segura.</p>
+                <a href="#">Visitar Página do Produto</a>
+            </aside>
+        </section>
+        <section class="produto" data-aos-duration="2000" data-aos="flip-left" data-aos-easing="ease-out-cubic" id="bender">
+            <aside>
+                <h2><span>Bender APP</span></h2>
+                <p>Bender App é um aplicativo android com o intuito de ajudar você acadêmico(a) a ter acesso à informações do seu
+                    curso sem a necessidade de visitar as diversas páginas do site acadêmico. Aqui você tem acesso a informações como 
+                    horário das disciplinas, chat privado, professores, documentos relevantes sobre a biblioteca, auxilios, RU e muito mais.
+                </p>
+                <a href="https://nnmf.github.io/" target="_blank">Visitar Página do Produto</a>
+            </aside>
+            <article>
+                <img src="./components/images/bender.png" alt="fundo" style="max-width: 350px" id="img2">
+            </article>
+        </section>
+        <section class="produto" data-aos-duration="2000" data-aos="flip-left" data-aos-easing="ease-out-cubic">
+            <article>
+                <img src="./components/images/coding.png" alt="fundo" style="max-width: 400px"  id="img3">
+            </article>
+            <aside>
+                <h2><span>DogCode</span></h2>
+                <p>O DogCode é um ambiente feito para ajudar pessoas a ingressar no mundo da programação de maneira fácil e divertida. Aprenda conceitos que se aplicam a qualquer linguagem de programação.</p>
+                <a href="#">Visitar Página do Produto</a>
+            </aside>
+        </section>
+        <div data-aos="fade-up">
+            <div class="subtitle">
+                <h1 id="equipe">Equipe Pedagógica</h1>
+            </div>
+            <section class="equipeGroup">
+                <div class="alinhar">
+                    <div class="equipe"></div>
+                    <p>Dr Edeilson<br>Professor da disciplina</p>
+                </div>
+                <div class="alinhar">
+                    <div class="equipe"></div>
+                    <p>Adão Henrique<br>Apoio Pedagógico</p>
+                </div>
+            </section>
+        </div>
+    <!-- </g> -->
+    </div>
+
+    <footer>
+        <img src="./components/images/logoUFT.png" width="80">
+        <img src="./components/images/CCOMP.png" width="100">
+        <img src="./components/images/marcaUFT.png" width="300">
+    </footer>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+</body>
+</html>
