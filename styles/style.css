@@ -134,15 +134,25 @@ html {
       margin-bottom: 50px;
   }
   
-  .equipe{
+  .edeilson{
       height: 100px;
       width: 100px;
       border-radius: 50%;
       margin-right: 10px;
-      background-image: url("../components/images/user.png");
+      background-image: url("../components/images/edeilson.jpg");
       background-size: cover;
       background-repeat: no-repeat;
   }
+
+  .adao{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background-image: url("../components/images/adao.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
   
   .alinhar{
       width: 400px;
