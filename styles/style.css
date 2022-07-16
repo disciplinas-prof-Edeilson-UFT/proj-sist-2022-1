@@ -40,6 +40,8 @@ html {
       padding: 10px;
       margin-left: 20px;
       border-radius: 15px;
+      width: 100%;
+      text-align: center;
   }
   
   a:hover{
@@ -161,6 +163,15 @@ html {
       align-items: center;
       justify-content: center
   }
+  .apresentacao{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .link{
+    width: 300px;
+  }
   
   footer{
       background-color: #111;
@@ -186,10 +197,9 @@ html {
         transform: translateY(0);
       }
     }
-    
-  
   
    .iconsoft{
       z-index: 99;
    }
+
   
